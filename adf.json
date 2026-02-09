@@ -1,0 +1,62 @@
+[
+    {
+        "prm_source_path":"Palani-Karthick/data_warehouse_project/refs/heads/main/AdventureWorks_Customers.csv",
+        "prm_folder_name":"Customers",
+        "prm_file_name":"Customers.csv"
+
+    },
+      {
+        "prm_source_path":"Palani-Karthick/data_warehouse_project/refs/heads/main/AdventureWorks_Products.csv",
+        "prm_folder_name":"Product",
+        "prm_file_name":"Product.csv"
+
+    },
+    {
+        "prm_source_path":"Palani-Karthick/data_warehouse_project/refs/heads/main/AdventureWorks_Product_Categories.csv",
+        "prm_folder_name":"Product",
+        "prm_file_name":"Product_Categories.csv"
+
+    },
+    {
+        "prm_source_path":"Palani-Karthick/data_warehouse_project/refs/heads/main/AdventureWorks_Product_Subcategories.csv",
+        "prm_folder_name":"Product",
+        "prm_file_name":"Product_Subcategories.csv"
+
+    },
+    {
+        "prm_source_path":"Palani-Karthick/data_warehouse_project/refs/heads/main/AdventureWorks_Returns.csv",
+        "prm_folder_name":"Returns",
+        "prm_file_name":"Returns.csv"
+
+    },
+    {
+        "prm_source_path":"Palani-Karthick/data_warehouse_project/refs/heads/main/AdventureWorks_Sales_2015.csv",
+        "prm_folder_name":"Sales",
+        "prm_file_name":"Sales_2015.csv"
+
+    },
+    {
+        "prm_source_path":"Palani-Karthick/data_warehouse_project/refs/heads/main/AdventureWorks_Sales_2016.csv",
+        "prm_folder_name":"Sales",
+        "prm_file_name":"Sales_2016.csv"
+
+    },
+    {
+        "prm_source_path":"Palani-Karthick/data_warehouse_project/refs/heads/main/AdventureWorks_Sales_2017.csv",
+        "prm_folder_name":"Sales",
+        "prm_file_name":"Sales_2017.csv"
+
+    },
+    {
+        "prm_source_path":"Palani-Karthick/data_warehouse_project/refs/heads/main/AdventureWorks_Territories.csv",
+        "prm_folder_name":"Region",
+        "prm_file_name":"Territories.csv"
+
+    },
+    {
+        "prm_source_path":"Palani-Karthick/data_warehouse_project/refs/heads/main/AdventureWorks_Calendar.csv",
+        "prm_folder_name":"Calendar",
+        "prm_file_name":"Calendar.csv"
+
+    }
+]
